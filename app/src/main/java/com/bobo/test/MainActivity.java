@@ -181,6 +181,8 @@ public class MainActivity extends AppCompatActivity {
         intent.putExtra("aspectX", 1);
         intent.putExtra("aspectY", 1);
 
+        //输出的宽高
+
         intent.putExtra("outputX", 300);
         intent.putExtra("outputY", 300);
 
